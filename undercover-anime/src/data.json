@@ -1,0 +1,164 @@
+[
+  { "civil": "Madara (Naruto)", "undercover": "Hashirama (Naruto)", "hint": "Fondateur" },
+  { "civil": "Obito (Naruto)", "undercover": "Kakashi (Naruto)", "hint": "Masque" },
+  { "civil": "Minato (Naruto)", "undercover": "Tobirama (Naruto)", "hint": "Hokage" },
+  { "civil": "Pain (Naruto)", "undercover": "Itachi (Naruto)", "hint": "Sacrifice" },
+  { "civil": "Jiraiya (Naruto)", "undercover": "Orochimaru (Naruto)", "hint": "Sannin" },
+
+  { "civil": "Shanks (One Piece)", "undercover": "Mihawk (One Piece)", "hint": "Épéiste" },
+  { "civil": "Doflamingo (One Piece)", "undercover": "Crocodile (One Piece)", "hint": "Manipulation" },
+  { "civil": "Law (One Piece)", "undercover": "Kid (One Piece)", "hint": "Supernova" },
+  { "civil": "Zoro (One Piece)", "undercover": "Rayleigh (One Piece)", "hint": "Sabre" },
+  { "civil": "Sanji (One Piece)", "undercover": "Marco (One Piece)", "hint": "Aile" },
+
+  { "civil": "Vegeta (Dragon Ball)", "undercover": "Broly (Dragon Ball)", "hint": "Saiyan" },
+  { "civil": "Gohan (Dragon Ball)", "undercover": "Trunks (Dragon Ball)", "hint": "Héritier" },
+  { "civil": "Freezer (Dragon Ball)", "undercover": "Cell (Dragon Ball)", "hint": "Création" },
+  { "civil": "Beerus (Dragon Ball)", "undercover": "Champa (Dragon Ball)", "hint": "Destruction" },
+
+  { "civil": "Rengoku (Demon Slayer)", "undercover": "Tengen (Demon Slayer)", "hint": "Pilier" },
+  { "civil": "Giyu (Demon Slayer)", "undercover": "Muichiro (Demon Slayer)", "hint": "Calme" },
+  { "civil": "Akaza (Demon Slayer)", "undercover": "Doma (Demon Slayer)", "hint": "Lune" },
+  { "civil": "Shinobu (Demon Slayer)", "undercover": "Mitsuri (Demon Slayer)", "hint": "Poison" },
+
+  { "civil": "Levi (Attack on Titan)", "undercover": "Mikasa (Attack on Titan)", "hint": "Lames" },
+  { "civil": "Erwin (Attack on Titan)", "undercover": "Armin (Attack on Titan)", "hint": "Stratège" },
+  { "civil": "Reiner (Attack on Titan)", "undercover": "Bertholdt (Attack on Titan)", "hint": "Guerrier" },
+
+  { "civil": "Gojo (Jujutsu Kaisen)", "undercover": "Geto (Jujutsu Kaisen)", "hint": "Infini" },
+  { "civil": "Sukuna (Jujutsu Kaisen)", "undercover": "Toji (Jujutsu Kaisen)", "hint": "Monstre" },
+  { "civil": "Yuta (Jujutsu Kaisen)", "undercover": "Megumi (Jujutsu Kaisen)", "hint": "Invocation" },
+
+  { "civil": "Hisoka (Hunter x Hunter)", "undercover": "Chrollo (Hunter x Hunter)", "hint": "Chaos" },
+  { "civil": "Kurapika (Hunter x Hunter)", "undercover": "Illumi (Hunter x Hunter)", "hint": "Chaînes" },
+  { "civil": "Meruem (Hunter x Hunter)", "undercover": "Netero (Hunter x Hunter)", "hint": "Roi" },
+
+  { "civil": "Aizen (Bleach)", "undercover": "Urahara (Bleach)", "hint": "Intellect" },
+  { "civil": "Byakuya (Bleach)", "undercover": "Toshiro (Bleach)", "hint": "Capitaine" },
+  { "civil": "Kenpachi (Bleach)", "undercover": "Unohana (Bleach)", "hint": "Combat" },
+
+  { "civil": "All Might (My Hero Academia)", "undercover": "Endeavor (My Hero Academia)", "hint": "Symbole" },
+  { "civil": "Shigaraki (My Hero Academia)", "undercover": "Dabi (My Hero Academia)", "hint": "Destruction" },
+  { "civil": "Todoroki (My Hero Academia)", "undercover": "Hawks (My Hero Academia)", "hint": "Héros" },
+
+  { "civil": "Ippo (Hajime no Ippo)", "undercover": "Miyata (Hajime no Ippo)", "hint": "Boxe" },
+  { "civil": "Takamura (Hajime no Ippo)", "undercover": "Hawk (Hajime no Ippo)", "hint": "Champion" },
+  { "civil": "Sendo (Hajime no Ippo)", "undercover": "Volg (Hajime no Ippo)", "hint": "Rival" },
+  { "civil": "Mashiba (Hajime no Ippo)", "undercover": "Sawamura (Hajime no Ippo)", "hint": "Distance" },
+
+  { "civil": "Isagi (Blue Lock)", "undercover": "Rin (Blue Lock)", "hint": "Vision" },
+  { "civil": "Bachira (Blue Lock)", "undercover": "Chigiri (Blue Lock)", "hint": "Dribble" },
+  { "civil": "Baro (Blue Lock)", "undercover": "Nagi (Blue Lock)", "hint": "Égo" },
+  { "civil": "Shidou (Blue Lock)", "undercover": "Kaiser (Blue Lock)", "hint": "Attaquant" },
+
+  { "civil": "Jonathan (JoJo Part 1)", "undercover": "Dio (JoJo Part 1)", "hint": "Destin" },
+  { "civil": "Joseph (JoJo Part 2)", "undercover": "Kars (JoJo Part 2)", "hint": "Masque" },
+  { "civil": "Jotaro (JoJo Part 3)", "undercover": "DIO (JoJo Part 3)", "hint": "Stand" },
+  { "civil": "Josuke (JoJo Part 4)", "undercover": "Kira (JoJo Part 4)", "hint": "Ville" },
+  { "civil": "Giorno (JoJo Part 5)", "undercover": "Diavolo (JoJo Part 5)", "hint": "Mafia" },
+  { "civil": "Jolyne (JoJo Part 6)", "undercover": "Pucci (JoJo Part 6)", "hint": "Prison" },
+
+  { "civil": "Asta (Black Clover)", "undercover": "Yuno (Black Clover)", "hint": "Rivalité" },
+  { "civil": "Yami (Black Clover)", "undercover": "Julius (Black Clover)", "hint": "Magie" },
+
+  { "civil": "Hinata (Haikyu)", "undercover": "Kageyama (Haikyu)", "hint": "Volleyball" },
+
+  { "civil": "Saitama (One Punch Man)", "undercover": "Garou (One Punch Man)", "hint": "Héros" },
+
+  { "civil": "Mikey (Tokyo Revengers)", "undercover": "Draken (Tokyo Revengers)", "hint": "Gang" },
+
+  { "civil": "Thorfinn (Vinland Saga)", "undercover": "Askeladd (Vinland Saga)", "hint": "Viking" },
+
+  { "civil": "Denji (Chainsaw Man)", "undercover": "Aki (Chainsaw Man)", "hint": "Démon" },
+  { "civil": "Power (Chainsaw Man)", "undercover": "Makima (Chainsaw Man)", "hint": "Chasseur" },
+  
+  { "civil": "Luffy (One Piece)", "undercover": "Ace (One Piece)", "hint": "Frère" },
+  { "civil": "Luffy (One Piece)", "undercover": "Sabo (One Piece)", "hint": "Révolution" },
+  { "civil": "Ace (One Piece)", "undercover": "Marco (One Piece)", "hint": "Commandant" },
+  { "civil": "Katakuri (One Piece)", "undercover": "King (One Piece)", "hint": "Bras droit" },
+  { "civil": "Big Mom (One Piece)", "undercover": "Kaido (One Piece)", "hint": "Empereur" },
+  { "civil": "Kizaru (One Piece)", "undercover": "Aokiji (One Piece)", "hint": "Amiral" },
+  { "civil": "Fujitora (One Piece)", "undercover": "Akainu (One Piece)", "hint": "Justice" },
+  { "civil": "Usopp (One Piece)", "undercover": "Buggy (One Piece)", "hint": "Mensonge" },
+  { "civil": "Franky (One Piece)", "undercover": "Kid (One Piece)", "hint": "Supernova" },
+  { "civil": "Robin (One Piece)", "undercover": "Nami (One Piece)", "hint": "Stratège" },
+
+  { "civil": "Goku (Dragon Ball Z)", "undercover": "Vegeta (Dragon Ball Z)", "hint": "Saiyan" },
+  { "civil": "Goku (Dragon Ball Z)", "undercover": "Gohan (Dragon Ball Z)", "hint": "Transformation" },
+  { "civil": "Vegeta (Dragon Ball Z)", "undercover": "Trunks (Dragon Ball Z)", "hint": "Futur" },
+  { "civil": "Gohan (Dragon Ball Z)", "undercover": "Piccolo (Dragon Ball Z)", "hint": "Maître" },
+  { "civil": "Cell (Dragon Ball Z)", "undercover": "Freezer (Dragon Ball Z)", "hint": "Tyran" },
+  { "civil": "Majin Buu (Dragon Ball Z)", "undercover": "Cell (Dragon Ball Z)", "hint": "Absorption" },
+  { "civil": "Vegeta (Dragon Ball Z)", "undercover": "Majin Buu (Dragon Ball Z)", "hint": "Sacrifice" },
+  { "civil": "Trunks (Dragon Ball Z)", "undercover": "Goten (Dragon Ball Z)", "hint": "Fusion" },
+  { "civil": "Goku (Dragon Ball Z)", "undercover": "Broly (Dragon Ball Z)", "hint": "Légendaire" },
+
+  { "civil": "Dio (JoJo Part 1)", "undercover": "Kars (JoJo Part 2)", "hint": "Immortalité" },
+  { "civil": "Joseph (JoJo Part 2)", "undercover": "Caesar (JoJo Part 2)", "hint": "Hamon" },
+  { "civil": "Jotaro (JoJo Part 3)", "undercover": "Polnareff (JoJo Part 3)", "hint": "Stand" },
+  { "civil": "Jotaro (JoJo Part 3)", "undercover": "Kakyoin (JoJo Part 3)", "hint": "Égypte" },
+  { "civil": "DIO (JoJo Part 3)", "undercover": "Pucci (JoJo Part 6)", "hint": "Destin" },
+  { "civil": "Josuke (JoJo Part 4)", "undercover": "Okuyasu (JoJo Part 4)", "hint": "Ville" },
+  { "civil": "Kira (JoJo Part 4)", "undercover": "Diavolo (JoJo Part 5)", "hint": "Identité" },
+  { "civil": "Giorno (JoJo Part 5)", "undercover": "Bruno (JoJo Part 5)", "hint": "Mafia" },
+  { "civil": "Abbacchio (JoJo Part 5)", "undercover": "Mista (JoJo Part 5)", "hint": "Équipe" },
+  { "civil": "Jolyne (JoJo Part 6)", "undercover": "Ermes (JoJo Part 6)", "hint": "Prison" },
+  { "civil": "Weather Report (JoJo Part 6)", "undercover": "Pucci (JoJo Part 6)", "hint": "Souvenir" },
+  { "civil": "Anasui (JoJo Part 6)", "undercover": "Jotaro (JoJo Part 6)", "hint": "Héritage" },
+
+  { "civil": "Zoro (One Piece)", "undercover": "Mihawk (One Piece)", "hint": "Épéiste" },
+  { "civil": "Sanji (One Piece)", "undercover": "Zoro (One Piece)", "hint": "Rivalité" },
+
+  { "civil": "Vegeta (Dragon Ball Z)", "undercover": "Piccolo (Dragon Ball Z)", "hint": "Fierté" },
+
+  { "civil": "Giorno (JoJo Part 5)", "undercover": "Josuke (JoJo Part 4)", "hint": "Joestar" },
+
+  { "civil": "Zoro (One Piece)", "undercover": "Sasuke (Naruto)", "hint": "Épéiste" },
+  { "civil": "Levi (Attack on Titan)", "undercover": "Mikasa (Attack on Titan)", "hint": "Lames" },
+  { "civil": "Levi (Attack on Titan)", "undercover": "Zoro (One Piece)", "hint": "Sabre" },
+  { "civil": "Sasuke (Naruto)", "undercover": "Megumi (Jujutsu Kaisen)", "hint": "Invocation" },
+
+  { "civil": "Asta (Black Clover)", "undercover": "Deku (My Hero Academia)", "hint": "Détermination" },
+  { "civil": "Yuno (Black Clover)", "undercover": "Todoroki (My Hero Academia)", "hint": "Prodige" },
+  { "civil": "Yami (Black Clover)", "undercover": "Gojo (Jujutsu Kaisen)", "hint": "Sensei" },
+
+  { "civil": "Saitama (One Punch Man)", "undercover": "Goku (Dragon Ball Z)", "hint": "Puissance" },
+  { "civil": "Garou (One Punch Man)", "undercover": "Shigaraki (My Hero Academia)", "hint": "Antihéros" },
+  { "civil": "Saitama (One Punch Man)", "undercover": "All Might (My Hero Academia)", "hint": "Héros" },
+
+  { "civil": "Denji (Chainsaw Man)", "undercover": "Yuji (Jujutsu Kaisen)", "hint": "Démon" },
+  { "civil": "Aki (Chainsaw Man)", "undercover": "Megumi (Jujutsu Kaisen)", "hint": "Calme" },
+  { "civil": "Makima (Chainsaw Man)", "undercover": "Aizen (Bleach)", "hint": "Manipulation" },
+
+  { "civil": "Hisoka (Hunter x Hunter)", "undercover": "Doflamingo (One Piece)", "hint": "Sadique" },
+  { "civil": "Chrollo (Hunter x Hunter)", "undercover": "Itachi (Naruto)", "hint": "Stratège" },
+  { "civil": "Kurapika (Hunter x Hunter)", "undercover": "Sasuke (Naruto)", "hint": "Vengeance" },
+
+  { "civil": "Thorfinn (Vinland Saga)", "undercover": "Eren (Attack on Titan)", "hint": "Liberté" },
+  { "civil": "Askeladd (Vinland Saga)", "undercover": "Shanks (One Piece)", "hint": "Charisme" },
+
+  { "civil": "Mikey (Tokyo Revengers)", "undercover": "Eren (Attack on Titan)", "hint": "Leader" },
+  { "civil": "Draken (Tokyo Revengers)", "undercover": "Zoro (One Piece)", "hint": "Bras droit" },
+
+  { "civil": "Ippo (Hajime no Ippo)", "undercover": "Hinata (Haikyu)", "hint": "Détermination" },
+  { "civil": "Takamura (Hajime no Ippo)", "undercover": "Escanor (Seven Deadly Sins)", "hint": "Fierté" },
+  { "civil": "Sendo (Hajime no Ippo)", "undercover": "Bakugo (My Hero Academia)", "hint": "Explosif" },
+
+  { "civil": "Isagi (Blue Lock)", "undercover": "Light (Death Note)", "hint": "Stratégie" },
+  { "civil": "Rin (Blue Lock)", "undercover": "Sasuke (Naruto)", "hint": "Rivalité" },
+  { "civil": "Baro (Blue Lock)", "undercover": "Vegeta (Dragon Ball Z)", "hint": "Égo" },
+
+  { "civil": "Giorno (JoJo Part 5)", "undercover": "Luffy (One Piece)", "hint": "Ambition" },
+  { "civil": "Jotaro (JoJo Part 3)", "undercover": "Byakuya (Bleach)", "hint": "Stoïque" },
+  { "civil": "DIO (JoJo Part 3)", "undercover": "Freezer (Dragon Ball Z)", "hint": "Tyran" },
+
+  { "civil": "Kira (JoJo Part 4)", "undercover": "Light (Death Note)", "hint": "Secret" },
+  { "civil": "Pucci (JoJo Part 6)", "undercover": "Pain (Naruto)", "hint": "Destin" },
+
+  { "civil": "Rengoku (Demon Slayer)", "undercover": "Ace (One Piece)", "hint": "Flamme" },
+  { "civil": "Akaza (Demon Slayer)", "undercover": "Garou (One Punch Man)", "hint": "Combat" },
+
+  { "civil": "Gojo (Jujutsu Kaisen)", "undercover": "Julius (Black Clover)", "hint": "Maître" },
+
+  { "civil": "Netero (Hunter x Hunter)", "undercover": "Yamamoto (Bleach)", "hint": "Ancien" }
+]
